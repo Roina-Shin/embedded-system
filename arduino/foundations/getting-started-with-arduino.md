@@ -33,7 +33,7 @@ An IDE, or integrated development environment, is used to write and upload the c
 - There's a standard USB port for connecting the unit to the computer. It's also used for powering Arduino Uno board, uploading the program sketches into the Arduino, and for communication.
 
 
-2. 3. Power Connector / Voltage Regulator
+2, 3. Power Connector / Voltage Regulator
 
 - Power Connector is used to provide power to the Arduino board when it's not plugged into the USB port. It accepts voltage between 9 and 15 volt, depending on the board. You can also see the voltage regulator beside it.
 
